@@ -1,5 +1,5 @@
-const TOKEN = '7647510633:AAHSWSstRQj3bZAmOJGFUGbqVe1gMb7Vq3M';
-const CHAT_ID = '6139440643';
+const TOKEN = '';
+const CHAT_ID = '';
 
 function toggleContactForm() {
   const wrapper = document.getElementById("contactWrapper");
